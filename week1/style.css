@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+}
+#header-style {
+    color: white;
+    background-color:#222;
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+div {
+    display: block;
+    margin: 0;
+    height: auto;
+}
+
+p {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#images, #section1, #section2 {
+    display: block;
+    float: left;
+    padding: 10px;
+}
+
+#section1 {
+    width: 65%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow: auto;
+}
+
+#section2 {
+    float: right;
+}
+a {
+    color: red;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

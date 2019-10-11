@@ -1,0 +1,13 @@
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+}
+
+a:focus {
+    font-size: 50px;
+    color: blue;
+    background-color: yellow;
+}
